@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="answerSize"> 40sp</dimen>
+    <dimen name="delNextBtn"> 48dp </dimen>
+    <dimen name="addEditBtn"> 50dp </dimen>
+    <dimen name="secondActivityButtons"> 40dp</dimen>
+    <dimen name="bottomBarMarginTop"> 15dp </dimen>
+    <dimen name="layoutTextHeight">60dp</dimen>
+    <dimen name = "questionTextSize"> 30sp </dimen>
+    <dimen name="layoutQuestionHeight">150dp</dimen>
+</resources>

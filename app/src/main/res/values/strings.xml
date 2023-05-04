@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lab 4</string>
+    <string name="numSecondDesc">  </string>
+    <string name="nextBtnDesc"> go to next card </string>
+    <string name = "QuestionContentDesc"> questionPlaceholder</string>
+    <string name="delBtnDesc">  delete card </string>
+    <string name="editBtnDesc">  edit card </string>
+    <string name="addBtnDesc">  add card </string>
+    <string  name = "question" >Multiple choice question</string>
+    <string name = "question_hint" >Enter The Question Here </string>
+    <string name = "answer_hint" >Enter The Answer Here </string>
+    <string name = "wrong1_hint" >Enter Wrong Answer Option Here </string>
+    <string name = "wrong2_hint" >Enter another Wrong Answer Option Here </string>
+    <string name="title_activity_question">Question</string>
+    <string name="description_save_button">add a question </string>
+    <string name="description_cancel_button"> cancel the process of adding a question</string>
+    <string name = "description_edit"> edit question </string>
+    <string name="description_restart"> Restart </string>
+    <string name = "description_add"> add question </string>
+    <string name="initialQuestion">"What is the capital of france"</string>
+    <string name="choice1"> answer 1 </string>
+    <string name="choice2"> answer 2 </string>
+    <string name="choice3"> answer 3 </string>
+
+
+</resources>
